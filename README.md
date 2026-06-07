@@ -9,6 +9,29 @@ receive structured educational responses, and revisit previous conversations.
 **Backend:** Node.js, Express, MongoDB, Mongoose, OpenAI API, JWT, bcrypt  
 **Frontend:** React, Vite, Redux Toolkit, React Router, Material UI
 
+<h2>Screenshots</h2>
+
+<p align="center">
+  <img src="./screenshots/login.png" width="45%" alt="Login Page"/>
+  <img src="./screenshots/chat.png" width="45%" alt="AI Chat"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/history.png" width="70%" alt="Conversation History"/>
+</p>
+
+## Architecture
+
+The backend follows a layered architecture:
+
+- **Routes** → API endpoints
+- **Controllers** → request handling
+- **Services** → business logic
+- **Models** → MongoDB schemas
+
+This structure improves scalability, maintainability, and code organization.
+
+
 ## Project Structure
 
 ```
