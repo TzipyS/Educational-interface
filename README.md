@@ -13,11 +13,12 @@ receive structured educational responses, and revisit previous conversations.
 
 <p align="center">
   <img src="./screenshots/login.png" width="45%" alt="Login Page"/>
-  <img src="./screenshots/chat.png" width="45%" alt="AI Chat"/>
+  <img src="./screenshots/register.png" width="45%" alt="Register Page"/>
 </p>
 
 <p align="center">
-  <img src="./screenshots/history.png" width="70%" alt="Conversation History"/>
+  <img src="./screenshots/chat.png" width="45%" alt="AI Chat"/>
+  <img src="./screenshots/history.png" width="45%" alt="Conversation History"/>
 </p>
 
 ## Architecture
