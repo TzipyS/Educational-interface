@@ -1,6 +1,6 @@
 # Smart Teacher
 
-A learning platform built for the Practec assessment project.  
+A Innovative learning platform.
 Users can register, pick a category, ask questions, get lesson-style answers, and view their own conversation history.
 
 ## Tech Stack
