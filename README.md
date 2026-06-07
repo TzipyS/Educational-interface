@@ -1,7 +1,8 @@
 # Smart Teacher
 
-A Innovative learning platform.
-Users can register, pick a category, ask questions, get lesson-style answers, and view their own conversation history.
+Smart Teacher is an AI-powered learning platform designed to help users learn through guided lesson-style conversations.
+Users can register, choose learning categories, ask questions,
+receive structured educational responses, and revisit previous conversations.
 
 ## Tech Stack
 
