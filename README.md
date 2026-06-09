@@ -123,4 +123,3 @@ Open `http://localhost:5173`
 ## Notes
 
 - Each user can only access their own conversation history.
-- Admin endpoints exist in the API but there is no admin UI yet.
